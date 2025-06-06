@@ -1,28 +1,21 @@
 # robsense
-
-FIXME: description
+A simple web server to facilitate communication between a robot microcontroller with two jobs: retrieve sensor data and logs over UDP and send kill, restart and PID tuning commands over UDP
 
 ## Installation
-
-Download from http://example.com/FIXME.
+Used for development so currently no install options
 
 ## Usage
 
-FIXME: explanation
+FIXME: use leiningen
 
-    $ java -jar robsense-0.1.0-standalone.jar [args]
+    $ lein run
 
 ## Options
 
-FIXME: listing of options this app accepts.
-
 ## Examples
 
-...
 
 ### Bugs
-
-...
 
 ### Any Other Sections
 ### That You Think
